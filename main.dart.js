@@ -77497,7 +77497,7 @@ case 11:k=A.cb(l.i(a0,"data"))
 if(k==null)k=""
 i=A.lK("https://api.openai.com/v1/completions",0,null)
 h=t.N
-g=A.aF(["Authorization","Bearer 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","Content-Type","application/json","Accept","application/json"],h,h)
+g=A.aF(["Authorization","Bearer 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","Content-Type","application/json","Accept","application/json"],h,h)
 s=12
 return A.a5(A.aQe(i,B.an.PA(A.aF(["model","davinci:ft-personal-2023-01-21-16-00-10","prompt",k,"max_tokens",200,"stop",A.a(["Q","##"],t.s),"temperature",0.8],h,t.K),null),g),$async$h4)
 case 12:f=a3
@@ -77541,7 +77541,7 @@ $.G_().M(0)
 return A.Z(null,r)}})
 return A.a_($async$uh,r)},
 aF(){A.ij("Base Url: http://rmsdevservice.walkingtree.tech")
-A.ij("API_KEY : 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")
+A.ij("API_KEY : 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")
 A.ij("CHAT_MODEL : davinci:ft-personal-2023-01-21-16-00-10")
 this.uh()
 this.aV()},
